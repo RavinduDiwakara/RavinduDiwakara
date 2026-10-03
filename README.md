@@ -15,14 +15,12 @@
 
 </div>
 
-<!-- Animated coding banner -->
-<img src="https://media.giphy.com/media/hgAZQSHf1TWJgm6R9O/giphy.gif" width="400">
 
 </div>
 
 ## 👨‍💻 About Me
 
-- 🎓 BICT Undergraduate, **Faculty of Technology, University of Colombo (UCSC)**
+- 🎓 BICT Undergraduate, **Faculty of Technology, University of Colombo (UOC-FOT)**
 - 🌱 Focused on **DevOps & Networking**
 - 💻 Building Projects with a mix of Cloud, Automation & Full-Stack tools
 - ⚡ Fun fact: I enjoy simulating networks in Cisco Packet Tracer as much as deploying containers!
@@ -47,6 +45,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravindu-diwakara-95912b311)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2023t01857@stu.cmb.ac.lk)
 
+</div>
+
+<!-- Profile banner -->
+<div align="center">
+  <img src="assets/banner.png" alt="Ravindu Diwakara - Network Engineer in Progress" width="100%"/>
 </div>
 
 ---
